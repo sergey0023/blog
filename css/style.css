@@ -1,0 +1,49 @@
+.message{
+	border-style: solid; 
+	border-width: 1px;
+	background-color: red;
+	font-weight: bold;
+	font-size: 14pt;
+	width: 600px;
+	height: 25px;
+	text-align: center;
+}
+
+.content{
+		border-style: solid; 
+	border-width: 1px;
+	background-color: blue;
+	font-weight: bold;
+	font-size: 14pt;
+	color: #eeeeee;
+	
+	text-align: center;
+}
+
+.content_2{
+		border-style: solid; 
+	border-width: 1px;
+	background-color: green;
+	font-weight: bold;
+	font-size: 14pt;
+	
+	
+	text-align: center;
+}
+
+.body{
+	background-color: grey;
+
+}
+
+.h1{
+  color: #ffee00;  - цвет заголовка
+  font: 40px Georgia;  - шрифт
+  margin-left: 300px;  - отступ слева
+}
+.h3{
+  width: 200px;  - ширина
+  color: #ffee00;  - цвет
+  font-style: italic;  - курсив
+  margin: 70px 0 0 30px;  - расположение
+}
